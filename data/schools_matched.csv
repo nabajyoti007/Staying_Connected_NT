@@ -1,0 +1,67 @@
+Name,Physical Address,Region,URI,Sector,Is FAFT School,Is Pre School,Is Primary School,Is Middle School,Is Senior School,NTG Remote Definition,locality,place,how
+Adelaide River School,"31 Memorial Tce, Adelaide River, 0846, NT",Top End,,Government,No,Yes,Yes,No,No,Remote Special Category,Adelaide River,ADELAIDE RIVER,exact
+Alcoota School,"20 TURNER ST, Engawala (Alcoota Stn), 0872, NT",Central,,Government,No,Yes,Yes,Yes,Yes,Remote Category 2,Engawala (Alcoota Stn),ENGAWALA,exact
+Alekarenge School,"8 JUNGARRAYI ST, Ali Curung (Warrabri), 0872, NT",Barkly,not available,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 2,Ali Curung (Warrabri),ALI CURUNG,alias
+Alpurrurulam School,"17 Apetyarr St, Alpurrurulam (Lake Nash), 4825, NT",Barkly,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Alpurrurulam (Lake Nash),ALPURRURULAM,exact
+Alyarrmandumanja Umbakumba School,"38 Mamarika Rd., Umbakumba, 0822, NT",East Arnhem,https://www.alyarrmandumanja.nt.edu.au/,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Umbakumba,UMBAKUMBA,exact
+Amoonguna School,"N/A, Amoonguna, NT",Central,,Government,No,No,Yes,No,No,Urban,N/A,AMOONGUNA,exact
+Ampilatwatja School,"6 School Road, Ampilatwatja, 0872, NT",Barkly,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Ampilatwatja,AMPILATWATJA,exact
+Angurugu Pre School,"N/A, Angurugu, NT",East Arnhem,,,No,No,No,No,No,,N/A,ANGURUGU,exact
+Angurugu School,"N/A, Angurugu, NT",East Arnhem,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/A,ANGURUGU,exact
+Arlparra School,", Arlparra Community, Utopia, NT",Barkly,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Arlparra Community,ARLPARRA,exact
+Barunga School,"N/A, Barunga  (Bamyili), NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 2,N/A,BARUNGA,exact
+Batchelor Area School,"71 Kirra Cres, Batchelor, 0845, NT",Top End,https://www.batchelorschool.com.au/,Government,No,Yes,Yes,Yes,Yes,Remote Special Category,Batchelor,BATCHELOR,exact
+Batchelor Pre School,"71 Kirra Cres, Batchelor, NT",Top End,,,No,Yes,No,No,No,,71 Kirra Cres,BATCHELOR,exact
+Belyuen School,"N/A, Belyuen, NT",Top End,,Government,Yes,Yes,Yes,No,Yes,Remote Category 2,N/A,BELYUEN,exact
+Borroloola Pre School,"321 Robinson Road, Borroloola, NT",Big Rivers,,,No,No,No,No,No,,321 Robinson Road,BORROLOOLA,exact
+Borroloola School,"321 Robinson Rd, Borroloola, 0854, NT",Big Rivers,https://www.borroloolaschool.nt.edu.au/,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Borroloola,BORROLOOLA,exact
+Bulman School,"N/A, Bulman, NT",Big Rivers,,Government,No,Yes,Yes,Yes,Yes,Remote Category 3,N/A,BULMAN,exact
+Elliott School,"91 Bray St, Elliott, NT",Barkly,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 1,91 Bray St,ELLIOTT,exact
+Gapuwiyak Pre School,"N/A, Gapuwiyak, NT",East Arnhem,,,No,No,No,No,No,,N/A,GAPUWIYAK,exact
+Gapuwiyak School,"N/a, Gapuwiyak, NT",East Arnhem,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/a,GAPUWIYAK,exact
+Gunbalanya Pre School,"N/a, Gunbalanya, NT",Top End,,,No,No,No,No,No,,N/a,GUNBALANYA,exact
+Gunbalanya School,"N/A, Gunbalanya, NT",Top End,http://www.gunbalanyaschool.nt.edu.au/,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/A,GUNBALANYA,exact
+Harts Range School,"N/A, Atitjere (Harts Range), NT",Central,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 2,N/A,ATITJERE,alias
+Jilkminggan School,"N/A, Jilkminggan (Duck Creek), NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 2,N/A,JILKMINGGAN,exact
+Kalkaringi Pre School,"Whitlam St, Kalkaringi (Wave hill), NT",Big Rivers,,,No,No,No,No,No,,Whitlam St,KALKARINDJI,alias
+Kalkaringi School,"Whitlam st, Kalkaringi (Wave hill), NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Whitlam st,KALKARINDJI,alias
+Lajamanu Pre School,"N/A, Lajamanu (Hooker Ck), NT",Big Rivers,,,No,No,No,No,No,,N/A,LAJAMANU,exact
+Lajamanu School,"N/A, Lajamanu ( Hooker Ck), NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/A,LAJAMANU,exact
+Ltyentye Apurte Catholic School,"35 Church Street, Santa Teresa (Ltyenty Apurte), NT",Central,http://www.lacecnt.catholic.edu.au,Catholic,No,Yes,Yes,Yes,No,Remote Category 2,35 Church Street,SANTA TERESA,alias
+Maningrida College,"n/a, Maningrida, 0822, NT",Top End,http://www.maningridacollege.nt.edu.au/,Government,No,Yes,Yes,Yes,Yes,Remote Category 3,Maningrida,MANINGRIDA,exact
+Manyallaluk School,"N/A, Manyallaluk (Eva Valley), NT",Big Rivers,,Government,No,Yes,Yes,No,No,Remote Category 2,N/A,MANYALLALUK,exact
+Mataranka School,"Roper Terrace, Mataranka, 0852, NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 1,Mataranka,MATARANKA,exact
+Milikapiti School,"N/A, Milikapiti (Snake Bay), NT",Top End,,Government,Yes,Yes,Yes,Yes,No,Remote Category 2,N/A,MILIKAPITI,exact
+Milingimbi School,"N/A, Milingimbi, 0822, NT",East Arnhem,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Milingimbi,MILINGIMBI,exact
+Minyerri Pre School,"N/A, Minyerri (Hodgson Downs), NT",Big Rivers,,,No,Yes,No,No,No,,N/A,MINYERRI,exact
+Minyerri School,"N/A, Minyerri (Hodgson Downs), NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/A,MINYERRI,exact
+Mutitjulu School,"Mutitjulu, Ayers Rock, NT",Central,,Government,No,No,Yes,Yes,No,Remote Category 1,Mutitjulu,MUTITJULU,exact
+Newcastle Waters School,"11 Drovers Dr, Newcastle Waters, NT",Barkly,,Government,No,Yes,Yes,Yes,No,Remote Category 1,11 Drovers Dr,NEWCASTLE WATERS,exact
+Nganmarriyanga School,"N/A, Palumpa, NT",Top End,http://www.nganmarriyangaschool.com,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/A,NGANMARRIYANGA,exact
+Ngukurr Pre School,"Bawuda St, Ngukurr, NT",Big Rivers,,,No,Yes,No,No,No,,Bawuda St,NGUKURR,exact
+Ngukurr School,"Bawuda St, Ngukurr, 0852, NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Ngukurr,NGUKURR,exact
+Numbulwar Pre School,"N/A, Numbulwar, NT",Big Rivers,,,No,Yes,No,No,No,,N/A,NUMBULWAR,exact
+Numbulwar School,"N/A, Numbulwar, NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/A,NUMBULWAR,exact
+Nyangatjatjara College - Imanpa Campus,"8 Mumu Rd (7-10), Imanpa, NT",Central,https://nyangatjatjara.nt.edu.au/,Independent,No,No,No,Yes,No,,8 Mumu Rd (7-10),IMANPA,exact
+Nyangatjatjara College - Mutitjulu Campus,"1680 Uluru Rd, Yulara, NT",Central,https://nyangatjatjara.nt.edu.au/,Independent,No,No,No,Yes,No,,1680 Uluru Rd,MUTITJULU,exact
+Our Lady of the Sacred Heart Thamarrurr Catholic College,"Wadeye, Port Keats, NT",Top End,www.olshnt.catholic.edu.au,Catholic,Yes,Yes,Yes,Yes,Yes,,Wadeye,WADEYE,exact
+Papunya School,"N/A, Papunya, 0872, NT",Central,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Papunya,PAPUNYA,exact
+Peppimenarti School,"Lot 31, Peppimenarti, NT",Top End,http://www.peppimenartischool.nt.edu.au/,Government,No,Yes,Yes,Yes,Yes,Remote Category 3,Lot 31,PEPPIMENARTI,exact
+Pine Creek School,"N/A, Pine Creek, 0847, NT",Big Rivers,,Government,No,Yes,Yes,No,No,Remote Special Category,Pine Creek,PINE CREEK,exact
+Ramingining Pre School,"N/A, Ramingining, NT",East Arnhem,,,No,Yes,No,No,No,,N/A,RAMINGINING,exact
+Ramingining School,"133Lewangu Drive, Ramingining, 0822, NT",East Arnhem,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Ramingining,RAMINGINING,exact
+Robinson River School,"N/A, Robinson River, NT",Big Rivers,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,N/A,ROBINSON RIVER,exact
+Shepherdson College,"Wakirana St, Galiwinku, 0822, NT",East Arnhem,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Galiwinku,GALIWINKU,exact
+Ti Tree School,"26 Palmer St, Ti-Tree, NT",Central,,Government,No,Yes,Yes,Yes,No,Remote Category 1,26 Palmer St,TI TREE,exact
+Timber Creek School,"62 Wilson St, Timber Creek, NT",Big Rivers,,Government,No,Yes,Yes,Yes,Yes,Remote Category 2,62 Wilson St,TIMBER CREEK,exact
+Tipperary Station School,"Daly River Road, Tipperary, NT",Top End,,Government,No,No,Yes,Yes,No,Remote Category 2,Daly River Road,TIPPERARY STATION,exact
+Titjikala School,"N/A, Titjikala (Maryvale), NT",Central,,Government,No,Yes,Yes,No,No,Remote Category 2,N/A,TITJIKALA,exact
+Wallace Rockhole School,"N/A, Wallace Rockhole, NT",Central,,Government,No,Yes,Yes,No,No,Remote Category 2,N/A,WALLACE ROCKHOLE,exact
+Warruwi School,"N/A, Warruwi (Goulburn Island), 0822, NT",Top End,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Warruwi (Goulburn Island),WARRUWI,exact
+Xavier Catholic College,"Wurrumiyanga, Bathurst Island, NT",Top End,http://www.xcecnt.catholic.edu.au/,Catholic,No,No,No,Yes,Yes,,Wurrumiyanga,WURRUMIYANGA,exact
+Yarralin School,"N/A, Yarralin, NT",Big Rivers,,Government,No,Yes,Yes,Yes,Yes,Remote Category 3,N/A,YARRALIN,exact
+Yirrkala Pre School,"Rankine Road, Yirrkala, NT",East Arnhem,,,No,No,No,No,No,,Rankine Road,YIRRKALA,exact
+Yirrkala School,"Rankine Road, Yirrkala, NT",East Arnhem,,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 1,Rankine Road,YIRRKALA,exact
+Yuendumu Pre School,"Conniston Road, Yuendumu, NT",Central,,,No,No,No,No,No,,Conniston Road,YUENDUMU,exact
+Yuendumu School,"Conniston Rd, Yuendumu, NT",Central,http://www.yuendumuschool.nt.edu.au,Government,Yes,Yes,Yes,Yes,Yes,Remote Category 3,Conniston Rd,YUENDUMU,exact
+Yulara School,"21 Winmati St, Yulara, 0872, NT",Central,https://yularaschool.nt.edu.au/,Government,No,Yes,Yes,Yes,Yes,Remote Category 1,Yulara,YULARA,exact

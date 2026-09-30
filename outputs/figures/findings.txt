@@ -1,0 +1,16 @@
+Constraint distribution: {0: 9, 1: 84, 2: 52, 3: 37, 4: 6}; four-constraint places: WILGI, MANDEDJKADJANG, ARMORRAN, ALAMIRRA, MINJILANG, WARRUWI
+4G: mean premises 58.0% vs land 13.8% across locations
+Median nearest site by type: {'COMMUNITY': 3.4, 'VILLAGE': 0.62, 'HIGHWAY': 0.09, 'TOURISM': 0.15}; Kruskal-Wallis on gap p=0.0008
+Population vs nearest site rho=-0.62 p=1.08e-17; one-operator share by band {'under 20': 42.0, '20–99': 57.0, '100–299': 43.0, '300+': 71.0}; overall one operator 84/188
+Spread classes: agree 36, partly 94, disagree 58
+Twin pair: THREEWAYS ROADHOUSE (47.0) vs MILIKAPITI (48.0); max dimension gap 69.7
+Investment: medians {'Closest 25% in 2018': {'d18': 0.3, 'd25': 0.3}, '2nd': {'d18': 3.4, 'd25': 3.4}, '3rd': {'d18': 12.8, 'd25': 11.6}, 'Furthest 25% in 2018': {'d18': 68.8, 'd25': 1.1}}; gained within 25 km {'Closest 25% in 2018': 15.0, '2nd': 26.0, '3rd': 53.0, 'Furthest 25% in 2018': 81.0}; rho=0.79
+NT-only Telstra sites: 2018 153, 2025 239, new 89, co-funded 52 (58%); region incl. border 221->366, new 148
+New sites 89, co-funded 52; still waiting: WILGI, MANDEDJKADJANG, RENNER SPRINGS ROADHOUSE, ROSS RIVER RESORT, ORMISTON RANGER STATION, GLEN HELEN HOMESTEAD
+Microwave backhaul 23; with cyclone count >= 11: 15
+Sensitivity: Infrastructure first rho=0.95 held=18/20; Mobile first rho=0.92 held=15/20; Broadband first rho=0.98 held=19/20; Equal weights rho=0.97 held=17/20; checklist vs score rho=0.46
+Schools 66 at 52 places; clinics 61; both + 3+ problems 15: MANINGRIDA, GALIWINKU, WURRUMIYANGA, MILINGIMBI, NGUKURR, BORROLOOLA, NUMBULWAR, MINYERRI, WARRUWI, MILIKAPITI, KALKARINDJI, YARRALIN, ROBINSON RIVER, TIMBER CREEK, MANYALLALUK; clinic places one company 36/61, radio 16/61; school places one company 30/52, radio 14/52; part-week/visiting clinics 8; community controlled 34/61
+Coverage-map consistency: ACCC 2023 outdoor/external-antenna ratio Optus 83%, TPG 74%, Telstra 52%; Telstra methodology letter 1 Mar 2024
+Second-network opportunity: 73 places, recorded people 21946, schools 30, clinics 36; far >10 km: 38 places, recorded people 534, schools 0, clinics 1
+Satellite: places in regions with 90%+ satellite-only homes 152; places served by a satellite small cell (nearest Telstra site within 10 km) 7; community Wi-Fi among our places {'Active (NBN community Wi-Fi via satellite)': 2, 'Funded, due by June 2027': 1}; ADII 2023 scores [['GALIWINKU', 46.0], ['WADEYE', 39.0]]
+Kinds of place: Top End communities 54 (avg problems 2.54); Coastal and Gulf towns 22 (avg problems 2.36); Desert communities 70 (avg problems 1.29); Outstations near towns 25 (avg problems 1.00); Near towns and Kakadu 17 (avg problems 1.12)

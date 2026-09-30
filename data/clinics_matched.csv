@@ -1,0 +1,89 @@
+Region,Clinic,Hours,Operator,Emergency_24_7,Visiting_only,Community_controlled,Limited_days,place,how
+Top End,Adelaide River,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,ADELAIDE RIVER,exact
+Top End,Batchelor,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,BATCHELOR,exact
+Top End,Belyuen,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,BELYUEN,exact
+Top End,Gunbalanya (Oenpelli),"Mon-Wed 8:30am-12pm, 1-4pm; Thu 1-4pm; Fri 8:30am-12pm, 1-4pm",Red Lily Health Board Aboriginal Corporation,False,False,True,True,GUNBALANYA,exact
+Top End,Jabiru,9am to 5pm; Emergencies 24/7,Red Lily Health Board,True,False,True,False,,
+Top End,Maningrida,9am to 5pm; Emergencies 24/7,Mala'la Health Service Aboriginal Corporation,True,False,True,False,MANINGRIDA,exact
+Top End,Milikapiti,9am to 5pm; Emergencies,NT Health,False,False,False,False,MILIKAPITI,exact
+Top End,Minjilang,9am to 5pm; Emergencies 24/7,Red Lily Health Board,True,False,True,False,MINJILANG,exact
+Top End,Nauiyu Nambiyu (Daly River),9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,NAUIYU,alias
+Top End,Palumpa,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,NGANMARRIYANGA,alias
+Top End,Peppimenarti,9am to 4:30pm; Emergencies 24/7,NT Health,True,False,False,False,PEPPIMENARTI,exact
+Top End,Pirlangimpi,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,PIRLANGIMPI,exact
+Top End,Wadeye (Port Keats),9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,WADEYE,exact
+Top End,Warruwi,9am to 5pm; Emergencies 24/7,Red Lily Health Board,True,False,True,False,WARRUWI,exact
+Top End,Woodyculpaldiya,9am to 12pm; 1pm to 4pm,NT Health,False,False,False,False,,
+Top End,Wurrumiyanga (Nguiu),9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,WURRUMIYANGA,exact
+East Arnhem,Alyangula,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,,
+East Arnhem,Angurugu,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,ANGURUGU,exact
+East Arnhem,Milyakburra (Bickerton Island),9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,,
+East Arnhem,Galiwin'ku (Elcho Island),8am to 12pm; 1pm to 4:30pm,Miwatj Health Aboriginal Corporation,False,False,True,False,GALIWINKU,exact
+East Arnhem,Galiwin'ku (Elcho Island) Homelands,,Marthakal Homelands Health Service,False,False,True,False,,
+East Arnhem,Gapuwiyak,9am to 5pm; Emergencies 24/7,Miwatj Health Aboriginal Corporation,True,False,True,False,GAPUWIYAK,exact
+East Arnhem,Gunyangara,8:30am to 4:30pm,Miwatj Health Aboriginal Corporation,False,False,True,False,GUNYANGARA,exact
+East Arnhem,Laynhapuy Homelands,,Laynhapuy Aboriginal Community Controlled Health Services,False,False,True,False,,
+East Arnhem,Nhulunbuy Urban,8:30am to 4:30pm,Miwatj Health Aboriginal Corporation,False,False,True,False,,
+East Arnhem,Ramingining,"Mon, Tue, Thu, Fri 8am-4:30pm; Wed 8am-12pm",Miwatj Health Aboriginal Corporation,False,False,True,False,RAMINGINING,exact
+East Arnhem,Umbakumba,Mon-Thu 9am-4pm; Fri 9am-1pm,NT Health,False,False,False,False,UMBAKUMBA,exact
+East Arnhem,Yirrkala,Mon-Thu 8am-4pm; Fri 8am-12pm,Miwatj Health Aboriginal Corporation,False,False,True,False,YIRRKALA,exact
+East Arnhem,Yurrwi (Milingimbi),"Mon, Tue, Thu, Fri 8am-4:30pm; Wed 8am-12pm",Miwatj Health Aboriginal Corporation,False,False,True,False,MILINGIMBI,alias
+Big Rivers,Amanbidji (Kildurk),Tuesday 10am to 2pm,Katherine West Health Board Aboriginal Corporation,False,False,True,True,,
+Big Rivers,Barunga (Bamyili),8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,False,False,True,False,BARUNGA,exact
+Big Rivers,Binjari,8:30am to 4pm,Wurli Wurlinjang Health Service,False,False,True,False,BINJARI,exact
+Big Rivers,Borroloola,9am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,BORROLOOLA,exact
+Big Rivers,Bulla,"Mon, Wed, Fri 10am-2pm",Katherine West Health Board Aboriginal Corporation,False,False,True,True,BULLA,exact
+Big Rivers,Daguragu (Wattie Creek),,Katherine West Health Board Aboriginal Corporation,False,False,True,False,DAGURAGU,exact
+Big Rivers,Gulin (Bulman),8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,False,False,True,False,BULMAN,alias
+Big Rivers,Jilkminggan (Duck Creek),8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,False,False,True,False,JILKMINGGAN,exact
+Big Rivers,Kalkaringi (Wave Hill),Mon-Thu 8:30am-4pm; Fri 1-4pm; Emergencies 24/7,Katherine West Health Board Aboriginal Corporation,True,False,True,False,KALKARINDJI,alias
+Big Rivers,Lajamanu (Hooker Creek),Mon-Thu 8:30am-4pm; Fri 1-4pm; Emergencies 24/7,Katherine West Health Board Aboriginal Corporation,True,False,True,False,LAJAMANU,exact
+Big Rivers,Lingara via Yarralin,Mon-Thu 8:30am-4pm; Fri 1-4pm; Emergencies 24/7,Katherine West Health Board Aboriginal Corporation,True,False,True,False,,
+Big Rivers,Manyallaluk (Eva Valley),9am to 5pm; Emergencies 24/7,Sunrise Health Service Aboriginal Corporation,True,False,True,False,MANYALLALUK,exact
+Big Rivers,Mataranka,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,False,False,True,False,MATARANKA,exact
+Big Rivers,Mialuni (Kildurk),Tuesday 10am to 2pm,Katherine West Health Board Aboriginal Corporation,False,False,True,True,,
+Big Rivers,Minyerri (Hodgeson Downs),,Sunrise Health Service Aboriginal Corporation,False,False,True,False,MINYERRI,exact
+Big Rivers,Ngukurr (Roper River),8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,False,False,True,False,NGUKURR,exact
+Big Rivers,Numbulwar,"Mon, Tue, Wed, Fri 9am-12pm; Thu 1-4pm",NT Health,False,False,False,False,NUMBULWAR,exact
+Big Rivers,Nitjpurru (Pigeon Hole),Tue 10:30am-4pm; Wed 8:30am-4pm; Thu 8:30am-2pm,Katherine West Health Board Aboriginal Corporation,False,False,True,True,,
+Big Rivers,Pine Creek,Tuesday 9am to 3pm,NT Health,False,False,False,True,PINE CREEK,exact
+Big Rivers,Robinson River,8am to 5pm,NT Health,False,False,False,False,ROBINSON RIVER,exact
+Big Rivers,Timber Creek,Mon-Thu 8:30am-4pm; Fri 1-4pm; Emergencies 24/7,Katherine West Health Board Aboriginal Corporation,True,False,True,False,TIMBER CREEK,exact
+Big Rivers,Urapunga (Rittarangu),,Sunrise Health Service Aboriginal Corporation,False,False,True,False,,
+Big Rivers,Wugularr (Beswick),,Sunrise Health Service Aboriginal Corporation,False,False,True,False,BESWICK,exact
+Big Rivers,Yarralin,Mon-Thu 8:30am-4pm; Fri 1-4pm; Emergencies 24/7,Katherine West Health Board Aboriginal Corporation,True,False,True,False,YARRALIN,exact
+Barkly,Aherrenge (Ampilawatja),"Mon, Tue, Wed, Fri 8:30am-12:30pm, 2:30-5:30pm; Thu 8:30am-12:30pm",Ampilatwatja Health Centre Aboriginal Corporation,False,False,True,False,AMPILATWATJA,alias
+Barkly,Ali Curung,Mon-Wed 8am to 5pm,NT Health,False,False,False,True,ALI CURUNG,exact
+Barkly,Alpurrurulam (Lake Nash),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,ALPURRURULAM,exact
+Barkly,Canteen Creek,8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,,
+Barkly,Elliot,8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,ELLIOTT,alias
+Barkly,Epenarra (Wutunugurra),Visiting service,NT Health,False,True,False,False,,
+Barkly,Tara (Neutral Junction),8am to 5pm,NT Health,False,False,False,False,,
+Barkly,Tennant Creek Outstations,8am to 4:30pm,Anyinginyi Health Services Aboriginal Corporation,False,False,True,False,,
+Barkly,Tennant Creek Urban,"Mon, Tue, Wed, Fri 8:30-11:30am, 1-4pm; Thu 8:30-11:30am",Anyinginyi Health Services Aboriginal Corporation,False,False,True,False,,
+Barkly,Urapuntja (Utopia),8am to 5pm; Emergencies 24/7,Urapuntja Health Service,True,False,True,False,,
+Central Australia,Amoonguna,"Mon, Tue, Wed, Fri 8am-4:30pm; Thu 8am-12:30pm",Central Australian Aboriginal Congress / Amoonguna Health Service Board,False,False,True,False,AMOONGUNA,exact
+Central Australia,Aputula (Finke),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,,
+Central Australia,Harts Range (Atitjere),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,ATITJERE,alias
+Central Australia,Bonya,Visiting service; Emergencies 24/7,NT Health,True,True,False,False,,
+Central Australia,Engawala (Alcoota),Visiting service; Emergencies 24/7,NT Health,True,True,False,False,ENGAWALA,exact
+Central Australia,Haasts Bluff (Ikuntji),Visiting service; Emergencies 24/7,NT Health,True,True,False,False,,
+Central Australia,Imanpa (Mt Ebenezer),Tue 10:30am-5pm; Wed 8:30am-2pm,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,True,IMANPA,exact
+Central Australia,Kaltukatjara (Docker River),"Mon, Tue 8:30am-5pm; Wed 9:30am-5pm; Thu 8:30am-12pm; Fri 8:30am-5pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,False,KALTUKATJARA,exact
+Central Australia,Kintore,9am to 12pm; 2pm to 5pm,Pintupi Homelands Health Service,False,False,True,False,KINTORE,exact
+Central Australia,Ltyentye Apurte (Santa Teresa),"Mon, Tue, Wed, Fri 8:30am-12pm, 1-5pm; Thu 8:30am-12pm, 3:30-4:30pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,False,SANTA TERESA,alias
+Central Australia,Laramba (Napperby),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,,
+Central Australia,Mt Liebig (Amunturrngu),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,MOUNT LIEBIG,alias
+Central Australia,Mutitjulu,"Mon, Tue, Wed, Fri 8:30am-4pm; Thu 8:30am-12pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,False,MUTITJULU,exact
+Central Australia,Hermannsburg (Ntaria),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,HERMANNSBURG,exact
+Central Australia,Ntaria (Hermannsburg) PHC,,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,False,,
+Central Australia,Nturiya (Ti-Tree Station),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,NTURIYA,exact
+Central Australia,Nyirippi (Waite Creek),8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,,
+Central Australia,Pmara Jutunta (6 Mile),Visiting service; Emergencies 24/7,NT Health,True,True,False,False,PMARA JUTUNTA,exact
+Central Australia,Titjikala (Maryvale),8:30am to 4:30pm; Emergencies 24/7,NT Health,True,False,False,False,TITJIKALA,exact
+Central Australia,Utju (Areonga),"Mon, Tue, Wed, Fri 8:30am-5pm; Thu 8:30am-12pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,False,,
+Central Australia,Wallace Rockhole,Wednesday 9am to 5pm,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,True,WALLACE ROCKHOLE,exact
+Central Australia,Watarrka (Kings Canyon),Mon-Thu 9am-4:30pm; Fri 9am-12pm,NT Health,False,False,False,False,,
+Central Australia,Willowra,9am to 5pm,NT Health,False,False,False,False,,
+Central Australia,Yuendumu,8am to 5pm; Emergencies 24/7,NT Health,True,False,False,False,YUENDUMU,exact
+Central Australia,Yulara (Uluru),"Mon, Tue 8:30am-5pm; Wed 9:30am-5pm; Thu 8:30am-12pm; Fri 8:30am-5pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,False,False,True,False,YULARA,exact
