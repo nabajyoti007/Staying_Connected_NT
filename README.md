@@ -195,10 +195,10 @@ notes recorded on the website stay on the visitor's own device until they choose
 
 | Member | Role |
 |---|---|
-| Md Ahanaf Mubashshir Alvi | Data sourcing and preparation |
-| Nabajyoti Sharma | Data analysis and machine learning |
+| Md Ahanaf Mubashshir Alvi | Data analysis and Prototype |
+| Nabajyoti Sharma | Data Source and presentation |
 | Anupoma Angasree | Research and reporting |
-| Shougata Das | Prototype and presentation |
+| Shougata Das | Data Sourcing, Machine learning |
 
 We used Claude (Anthropic) as an AI assistant during this project, as set out in the AI usage
 declaration in our report.
